@@ -1,0 +1,19 @@
+{
+  "name": "procedural-tilemap-renderer",
+  "version": "1.0.0",
+  "description": "procedural-tilemap-renderer ===========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivierrr/procedural-tilemap-renderer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierrr/procedural-tilemap-renderer/issues"
+  },
+  "homepage": "https://github.com/olivierrr/procedural-tilemap-renderer"
+}
